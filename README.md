@@ -33,12 +33,12 @@ A fun and interactive **Memory Matching Game** built with pure **HTML, CSS, and 
 ---
 
 ## 📁 File Structure
-
+```text
 memory-matching-game-js/
 ├── index.html     # Game UI
 ├── style.css      # Game styles
 └── script.js      # Game logic
-
+```
 
 ---
 
@@ -61,5 +61,5 @@ If you find a bug or have a feature idea, feel free to open an issue or submit a
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Yuvaraj](https://github.com/Yuvaraj780)
+Made with ❤️ by [Yuvaraj](https://github.com/iam-yuvi)
 
